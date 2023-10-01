@@ -1,2 +1,2 @@
 # IBM-Project
-Data Science Capstone Project of IBM
+Data Science Capstone Project IBM
